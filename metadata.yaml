@@ -8,12 +8,17 @@ contributor:
     deathdate: 1959
     gutenberg_agent_id: '43463'
     url: http://www.gutenberg.org/2009/agents/43463
+covers:
+- cover_type: archival
+  image_path: 68642-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Hoatson, Florence
     gutenberg_agent_id: '54883'
     url: http://www.gutenberg.org/2009/agents/54883
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68642#The-little-white-gate
 gutenberg_issued: '2022-07-29'
 identifiers:
   gutenberg: '68642'
